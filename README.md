@@ -1,5 +1,5 @@
 # assignment-vue
-(outputs)[https://github.com/saswatchaturvedi/assignment-koyal-vue/tree/master/Outputs]
+[outputs](https://github.com/saswatchaturvedi/assignment-koyal-vue/tree/master/Outputs)
 
 ## Project setup
 ```
