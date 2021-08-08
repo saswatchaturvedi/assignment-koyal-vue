@@ -1,4 +1,5 @@
 # assignment-vue
+(outputs)[]
 
 ## Project setup
 ```
